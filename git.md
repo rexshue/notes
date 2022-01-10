@@ -10,3 +10,7 @@
 * cd~/.ssh && ssh-keygen
 * cat id_rsa.pub | xclip /* linux */
 * cat id_rsa.pub | clip /* Git Bash */
+
+### ReUpdate 
+* git remote -v
+* git remote set-url origin git@github.com:xxxx/xxxx.git
